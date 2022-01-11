@@ -1,0 +1,7 @@
+const ADD_COUNTER = 'ADD_COUNTER';
+const REMOVE_COUNTER = 'REMOVE_COUNTER';
+
+export {
+    ADD_COUNTER,
+    REMOVE_COUNTER
+}
